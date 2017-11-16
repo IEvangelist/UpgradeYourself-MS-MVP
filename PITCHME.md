@@ -8,10 +8,14 @@
 ---?image=assets/fast-lane.jpeg&size=contain
 ## <span class="black-shadow">Fast Lane</span>
 ---?image=assets/accident.jpeg&size=contain
+## <span class="orange black-shadow">Distractions</span>
 ---?image=assets/rainy-day.jpeg&size=contain
+## <span class="orange black-shadow">Trapped</span>
 ---?image=assets/wet-road.jpeg&size=contain
+## <span class="orange black-shadow">Realization</span>
 ---?image=assets/do-great.jpg&size=contain
 ---?image=assets/off-ramps.jpeg&size=contain
+## <span class="orange black-shadow">Know Thy Self</span>
 ---
 # Thank you
 <img src="assets/me.jpg" height="325" />
