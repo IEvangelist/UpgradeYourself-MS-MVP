@@ -6,7 +6,7 @@
 ---?image=assets/holding-world.jpg&size=contain
 ## <span class="orange black-shadow">The World</span>
 ---?image=assets/fast-lane.jpeg&size=contain
-## <span class="black white-shadow">Fast Lane</span>
+## <span class="black-shadow">Fast Lane</span>
 ---?image=assets/accident.jpeg&size=contain
 ---?image=assets/rainy-day.jpeg&size=contain
 ---?image=assets/wet-road.jpeg&size=contain
