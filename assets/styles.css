@@ -1,0 +1,11 @@
+.black-shadow {
+  text-shadow: 0 0 35px black;
+}
+
+.white-shadow {
+  text-shadow: 0 0 35px white;
+}
+
+.orange {
+  color: orange;
+}
