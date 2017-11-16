@@ -15,7 +15,7 @@
 ## <span class="orange black-shadow">Realization</span>
 ---?image=assets/do-great.jpg&size=contain
 ---?image=assets/off-ramps.jpeg&size=contain
-## <span class="orange black-shadow">Know Thy Self</span>
+## <span class="orange black-shadow">Know Thyself</span>
 ---
 # Thank you
 <img src="assets/me.jpg" height="325" />
