@@ -1,3 +1,7 @@
+# Upgrade Yourself
+## Most Valued Developer
+<img src="assets/me.jpg" height="325" />
+<br />
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 ---?image=assets/holding-world.jpg&size=contain
 ---?image=assets/fast-lane.jpeg&size=contain
