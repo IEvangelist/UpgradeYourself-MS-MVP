@@ -18,7 +18,7 @@
 ## <span class="orange black-shadow">Open Source</span>
 ---?image=assets/mentor.jpeg&size=contain
 ## <span class="orange black-shadow">Mentoring</span>
----
+---?image=assets/conferences.jpg&size=contain
 ## <span class="orange black-shadow">Conferences</span>
 ---
 
