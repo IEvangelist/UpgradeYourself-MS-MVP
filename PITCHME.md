@@ -8,13 +8,13 @@
 
 ---?image=assets/reflect.jpg&size=contain
 ## <span class="orange black-shadow">Know Thyself</span>
----
+?image=assets/lonely.jpeg&size=contain
 ## <span class="orange black-shadow">Social Developer</span>
----
+?image=assets/blogging.jpeg&size=contain
 ## <span class="orange black-shadow">Blogging</span>
----
+?image=assets/speaking.jpg&size=contain
 ## <span class="orange black-shadow">Speaking</span>
----
+?image=assets/open-source.jpeg&size=contain
 ## <span class="orange black-shadow">Open Source</span>
 ---
 ## <span class="orange black-shadow">Mentoring</span>
