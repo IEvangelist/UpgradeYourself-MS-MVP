@@ -6,7 +6,7 @@
 ---?image=assets/holding-world.jpg&size=contain
 ## <span class="orange black-shadow">The World</span>
 
----
+---?image=assets/reflect.jpg&size=contain
 ## <span class="orange black-shadow">Know Thyself</span>
 ---
 ## <span class="orange black-shadow">Social Developer</span>
@@ -17,7 +17,7 @@
 ---
 ## <span class="orange black-shadow">Open Source</span>
 ---
-## <span class="orange black-shadow">Mentor</span>
+## <span class="orange black-shadow">Mentoring</span>
 ---
 ## <span class="orange black-shadow">Conferences</span>
 ---
@@ -35,9 +35,6 @@
 ## <span class="orange black-shadow">Realization</span>
 
 ---?image=assets/do-great.jpg&size=contain
-
----?image=assets/reflect.jpg&size=contain
-## <span class="orange black-shadow">Know Thyself</span>
 
 ---
 # Thank you
