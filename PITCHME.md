@@ -8,19 +8,6 @@
 
 ---?image=assets/reflect.jpg&size=contain
 ## <span class="orange black-shadow">Know Thyself</span>
----?image=assets/lonely.jpeg&size=contain
-## <span class="orange black-shadow">Social Developer</span>
----?image=assets/blogging.jpeg&size=contain
-## <span class="orange black-shadow">Blogging</span>
----?image=assets/speaking.jpg&size=contain
-## <span class="orange black-shadow">Speaking</span>
----?image=assets/open-source.jpeg&size=contain
-## <span class="orange black-shadow">Open Source</span>
----?image=assets/mentor.jpeg&size=contain
-## <span class="orange black-shadow">Mentoring</span>
----?image=assets/conferences.jpg&size=contain
-## <span class="orange black-shadow">Conferences</span>
----
 
 ---?image=assets/fast-lane.jpeg&size=contain
 ## <span class="black-shadow">Fast Lane</span>
@@ -34,9 +21,26 @@
 ---?image=assets/wet-road.jpeg&size=contain
 ## <span class="orange black-shadow">Realization</span>
 
+---?image=assets/lonely.jpeg&size=contain
+## <span class="orange black-shadow">Social Developer</span>
+
+---?image=assets/blogging.jpeg&size=contain
+## <span class="orange black-shadow">Blogging</span>
+
+---?image=assets/speaking.jpg&size=contain
+## <span class="orange black-shadow">Speaking</span>
+
+---?image=assets/open-source.jpeg&size=contain
+## <span class="orange black-shadow">Open Source</span>
+
+---?image=assets/mentor.jpeg&size=contain
+## <span class="orange black-shadow">Mentoring</span>
+
+---?image=assets/conferences.jpg&size=contain
+## <span class="orange black-shadow">Conferences</span>
+
 ---?image=assets/do-great.jpg&size=contain
 
----
 # Thank you
 <img src="assets/me.jpg" height="325" />
 <br/>
