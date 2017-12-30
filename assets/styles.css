@@ -6,8 +6,7 @@
   text-shadow: 0 0 35px white;
 }
 
-.black,
-blockquote p {
+.black {
   color: black;
 }
 .orange {
