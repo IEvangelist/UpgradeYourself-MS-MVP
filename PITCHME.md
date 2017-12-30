@@ -42,7 +42,8 @@
 ---?image=assets/conferences.jpg&size=contain
 ## <span class="orange black-shadow">Conferences</span>
 
----?image=assets/do-great.jpg&size=contain
+---
+> Be the greatness you seek in others
 
 ---
 # Thank you
