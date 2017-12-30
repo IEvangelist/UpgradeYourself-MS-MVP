@@ -7,15 +7,13 @@
 ## <span class="orange black-shadow">The World</span>
 
 ---?image=assets/holding-world.jpg&size=contain
-### <span class="orange black-shadow">Perpetuitous</span>
-- Code
-- Contribution
-- Project
+## <blockquote class="orange black-shadow">Every developer wants to contribute some perpetuitous code to a project.</blockquote>
 
 ---?image=assets/reflect.jpg&size=contain
 ## <span class="orange black-shadow">Know Thyself</span>
 
-
+---?image=assets/reflect.jpg&size=contain
+## <blockquote class="orange black-shadow">You cannot know anyone else without first knowing yourself.</blockquote>
 
 ---?image=assets/fast-lane.jpeg&size=contain
 ## <span class="black-shadow">Fast Lane</span>
