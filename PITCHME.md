@@ -46,6 +46,9 @@
 > Be the greatness you seek in others
 
 ---
+> Expect nothing, but appreciate everything
+
+---
 # Thank you
 <img src="assets/me.jpg" height="325" />
 <br/>
