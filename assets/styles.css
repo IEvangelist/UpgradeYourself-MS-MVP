@@ -1,4 +1,4 @@
-.black-shadow {
+ .black-shadow {
   text-shadow: 0 0 35px black;
 }
 
@@ -7,7 +7,7 @@
 }
 
 .black,
-blockquote {
+blockquote p {
   color: black;
 }
 .orange {
