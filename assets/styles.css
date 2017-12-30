@@ -14,6 +14,6 @@ blockquote p {
   color: orange;
 }
 
-blockquote {
+.reveal blockquote {
   background: rgba(255, 255, 255, .35) !important;
 }
