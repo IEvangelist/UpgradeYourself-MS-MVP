@@ -1,4 +1,4 @@
- .black-shadow {
+.black-shadow {
   text-shadow: 0 0 35px black;
 }
 
@@ -12,4 +12,8 @@ blockquote p {
 }
 .orange {
   color: orange;
+}
+
+blockquote {
+  background: rgba(255, 255, 255, .35);
 }
