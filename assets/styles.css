@@ -15,5 +15,5 @@ blockquote p {
 }
 
 blockquote {
-  background: rgba(255, 255, 255, .35);
+  background: rgba(255, 255, 255, .35) !important;
 }
