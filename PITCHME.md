@@ -6,6 +6,12 @@
 ---?image=assets/holding-world.jpg&size=contain
 ## <span class="orange black-shadow">The World</span>
 
+---
+### <span class="orange black-shadow">Perpetuitous</span>
+- Code
+- Contribution
+- Project
+
 ---?image=assets/reflect.jpg&size=contain
 ## <span class="orange black-shadow">Know Thyself</span>
 
