@@ -6,7 +6,7 @@
 ---?image=assets/holding-world.jpg&size=contain
 ## <span class="orange black-shadow">The World</span>
 
----
+---?image=assets/holding-world.jpg&size=contain
 ### <span class="orange black-shadow">Perpetuitous</span>
 - Code
 - Contribution
@@ -14,6 +14,8 @@
 
 ---?image=assets/reflect.jpg&size=contain
 ## <span class="orange black-shadow">Know Thyself</span>
+
+
 
 ---?image=assets/fast-lane.jpeg&size=contain
 ## <span class="black-shadow">Fast Lane</span>
