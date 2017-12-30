@@ -30,6 +30,9 @@
 ---?image=assets/speaking.jpg&size=contain
 ## <span class="orange black-shadow">Speaking</span>
 
+---?image=assets/questions.jpg&size=contain
+## <span class="orange black-shadow">Stack Overflow</span>
+
 ---?image=assets/open-source.jpeg&size=contain
 ## <span class="orange black-shadow">Open Source</span>
 
@@ -41,6 +44,7 @@
 
 ---?image=assets/do-great.jpg&size=contain
 
+---
 # Thank you
 <img src="assets/me.jpg" height="325" />
 <br/>
