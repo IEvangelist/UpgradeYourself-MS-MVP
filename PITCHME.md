@@ -6,14 +6,8 @@
 ---?image=assets/holding-world.jpg&size=contain
 ## <span class="orange black-shadow">The World</span>
 
----?image=assets/holding-world.jpg&size=contain
-> Every developer wants to contribute some perpetuitous code to a project
-
 ---?image=assets/reflect.jpg&size=contain
 ## <span class="orange black-shadow">Know Thyself</span>
-
----?image=assets/reflect.jpg&size=contain
-> You cannot know anyone else without first knowing yourself
 
 ---?image=assets/fast-lane.jpeg&size=contain
 ## <span class="black-shadow">Fast Lane</span>
