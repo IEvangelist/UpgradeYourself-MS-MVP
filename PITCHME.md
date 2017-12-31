@@ -97,6 +97,6 @@ Note:
 
 ---
 # Thank you
-<img src="assets/me.jpg" height="325" />
+[Bit.ly/upgrade-self](http://bit.ly/upgrade-self)
 <br/>
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
