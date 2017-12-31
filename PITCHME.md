@@ -27,6 +27,8 @@
 ---?image=assets/blogging.jpeg&size=contain
 ## <span class="orange black-shadow">Blogging</span>
 
+---?image=assets/gohugo.svg&size=contain
+
 ---?image=assets/speaking.jpg&size=contain
 ## <span class="orange black-shadow">Speaking</span>
 
