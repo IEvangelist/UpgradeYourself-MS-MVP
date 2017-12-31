@@ -1,5 +1,4 @@
 ## Upgrade Yourself
-#### Most Valued Developer
 <img src="assets/me.jpg" height="325" />
 <br />
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
@@ -25,13 +24,19 @@ Life comes at you fast, and it all seems like a blur. It is our responsibility t
 ## <span class="orange black-shadow">Distractions</span>
 
 Note:
-...
+Blake lights, all the cars are stopped -- traffic comes to a hault. But you later realize that everyone was looking at an accident on the other side of the freeway! WTF
 
 ---?image=assets/rainy-day.jpeg&size=contain
 ## <span class="orange black-shadow">Trapped</span>
 
+Note:
+Do you ever feel trapped or stuck...whether on a problem, or a project or even your career? Are they road blocks in your life that you have yet to go around?
+
 ---?image=assets/wet-road.jpeg&size=contain
 ## <span class="orange black-shadow">Realization</span>
+
+Note:
+
 
 ---?image=assets/lonely.jpeg&size=contain
 ## <span class="orange black-shadow">Social Developer</span>
@@ -46,8 +51,14 @@ Note:
 #### [davidpine.net/blog](https://davidpine.net/)
 #### [www.dotnetcurry.com/author/david-pine](http://www.dotnetcurry.com/author/david-pine)
 
+Note:
+Explain wordpress.com, dynamic website vs static websites. Explain medium and guest authoring. 
+
 ---?image=assets/speaking.jpg&size=contain
 ## <span class="orange black-shadow">Speaking</span>
+
+Note:
+
 
 ---?image=assets/questions.jpg&size=contain
 ## <span class="orange black-shadow">Stack Overflow</span>
