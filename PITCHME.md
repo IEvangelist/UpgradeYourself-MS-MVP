@@ -29,10 +29,10 @@
 
 ---
 
-## [ievangelistblog.wordpress.com](https://ievangelistblog.wordpress.com/)
-## [medium.com/@davidpine7](https://medium.com/@davidpine7)
-## [davidpine.net/blog](https://davidpine.net/)
-## [www.dotnetcurry.com/author/david-pine](http://www.dotnetcurry.com/author/david-pine)
+#### [ievangelistblog.wordpress.com](https://ievangelistblog.wordpress.com/)
+#### [medium.com/@davidpine7](https://medium.com/@davidpine7)
+#### [davidpine.net/blog](https://davidpine.net/)
+#### [www.dotnetcurry.com/author/david-pine](http://www.dotnetcurry.com/author/david-pine)
 
 ---?image=assets/speaking.jpg&size=contain
 ## <span class="orange black-shadow">Speaking</span>
