@@ -36,7 +36,7 @@ Do you ever feel trapped or stuck...whether on a problem, or a project or even y
 ## <span class="orange black-shadow">Realization</span>
 
 Note:
-
+It's wet and yucky...right. No, it smells amazing after it rains. It is cool and beautiful. Be positive!!
 
 ---?image=assets/lonely.jpeg&size=contain
 ## <span class="orange black-shadow">Social Developer</span>
