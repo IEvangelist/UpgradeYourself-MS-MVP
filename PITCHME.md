@@ -14,6 +14,13 @@ We all want the world. We want to hold it in our hands, we want claim it as our 
 Note:
 I believe that you can never know anyone else without first knowing yourself. Think back to when you were a teenager, you thought you knew how people were. But you didn't, because you didn't first know who you were -- you were still figuring out who you were going to be.
 
+---
+## DiSC
+<img src="assets/disc-iD.png" height="325" />
+
+Note:
+...
+
 ---?image=assets/fast-lane.jpeg&size=contain
 ## <span class="black-shadow">Fast Lane</span>
 
