@@ -15,7 +15,7 @@ Note:
 I believe that you can never know anyone else without first knowing yourself. Think back to when you were a teenager, you thought you knew how people were. But you didn't, because you didn't first know who you were -- you were still figuring out who you were going to be.
 
 ---
-## DiSC
+## <span class="orange black-shadow">DiSC</span>
 <img src="assets/disc-iD.png" height="325" />
 
 Note:
@@ -63,6 +63,16 @@ Explain wordpress.com, dynamic website vs static websites. Explain medium and gu
 
 ---?image=assets/speaking.jpg&size=contain
 ## <span class="orange black-shadow">Speaking</span>
+
+Note:
+
+---
+
+#### [Jeremy Clark - Next Speaker, You!](https://jeremybytes.blogspot.com/2011/08/meet-next-code-camp-speaker-you.html)
+#### [David Neal - Barfing on your Shoes]()
+#### [Cory House - Speaker Starter Kit](https://libraries.io/github/coryhouse/speaker-starter-kit)
+#### [Troy Hunt - Speaker Bingo](https://www.troyhunt.com/speaker-style-bingo-10-presentation/)
+#### [Scott Hanselman - Speaker Hacks](http://speakinghacks.com/)
 
 Note:
 
