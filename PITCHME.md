@@ -6,6 +6,10 @@
 ---?image=assets/holding-world.jpg&size=contain
 ## <span class="orange black-shadow">The World</span>
 
+Note:
+Perpetuity in Code, Contributions and Projects
+We want to feel like what we do matters
+
 ---?image=assets/reflect.jpg&size=contain
 ## <span class="orange black-shadow">Know Thyself</span>
 
