@@ -97,6 +97,6 @@ Note:
 
 ---
 # Thank you
-[Bit.ly/upgrade-self](http://bit.ly/upgrade-self)
+## [bit.ly/upgrade-self](http://bit.ly/upgrade-self)
 <br/>
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
