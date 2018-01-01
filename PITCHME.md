@@ -93,7 +93,7 @@ Note:
 > Be the greatness you seek in others
 
 ---
-> Expect nothing, but appreciate everything
+> Expect nothing, but be grateful for everything
 
 ---
 # Thank you
