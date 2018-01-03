@@ -66,6 +66,7 @@ Explain wordpress.com, dynamic website vs static websites. Explain medium and gu
 ## <span class="orange black-shadow">Speaking</span>
 
 Note:
+...
 
 ---
 
@@ -76,7 +77,7 @@ Note:
 #### [Scott Hanselman - Speaker Hacks](http://speakinghacks.com/)
 
 Note:
-
+...
 
 ---?image=assets/questions.jpg&size=contain
 ## <span class="orange black-shadow">Stack Overflow</span>
@@ -95,10 +96,23 @@ Note:
 ## <span class="orange black-shadow">Conferences</span>
 
 ---
-> Be the greatness you seek in others
+## Attending
+> Developers who attend technical conferences are among the top 1% of all developers
+
+---?image=assets/mke-dot-net.jpg&size=contain
+## <span class="orange black-shadow">Organizing</span>
+
+---
+> Be the greatness that you seek in others
 
 ---
 > Expect nothing, but be grateful for everything
+
+---
+> Don't just listen to others, heed their words
+
+---
+> Value the efforts of your peers
 
 ---
 # Thank you
