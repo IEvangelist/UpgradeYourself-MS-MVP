@@ -89,6 +89,12 @@ Note:
 ---?image=assets/open-source.jpeg&size=contain
 ## <span class="orange black-shadow">Open Source</span>
 
+---
+##### [ASP.NET Core](https://github.com/aspnet)
+##### [.NET Core](https://github.com/dotnet)
+##### [Angular](https://github.com/angular)
+##### [TypeScript](https://github.com/Microsoft/TypeScript)
+
 ---?image=assets/mentor.jpeg&size=contain
 ## <span class="orange black-shadow">Mentoring</span>
 
@@ -99,8 +105,12 @@ Note:
 ## Attending
 > Developers who attend technical conferences are among the top 1% of all developers
 
----?image=assets/mke-dot-net.jpg&size=contain
+---
 ## <span class="orange black-shadow">Organizing</span>
+<img src="assets/mke-dot-net.png" height="325" />
+
+---
+# Words To Live By
 
 ---
 > Be the greatness that you seek in others
