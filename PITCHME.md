@@ -15,6 +15,9 @@ Note:
 I believe that you can never know anyone else without first knowing yourself. Think back to when you were a teenager, you thought you knew how people were. But you didn't, because you didn't first know who you were -- you were still figuring out who you were going to be.
 
 ---
+> You must first know yourself before you can really know anyone else
+
+---
 ## <span class="orange black-shadow">DiSC</span>
 <img src="assets/disc-iD.png" height="325" />
 
@@ -49,8 +52,14 @@ It's wet and yucky...right. No, it smells amazing after it rains. It is cool and
 ---?image=assets/lonely.jpeg&size=contain
 ## <span class="orange black-shadow">Social Developer</span>
 
+Note:
+...
+
 ---?image=assets/blogging.jpeg&size=contain
 ## <span class="orange black-shadow">Blogging</span>
+
+Note:
+...
 
 ---
 
@@ -82,21 +91,37 @@ Note:
 ---?image=assets/questions.jpg&size=contain
 ## <span class="orange black-shadow">Stack Overflow</span>
 
+Note:
+...
+
 ---
 ## <span class="orange black-shadow">#WinterBash</span>
 <img src="assets/winter-bash.jpg" height="325" />
+
+Note:
+...
 
 ---?image=assets/open-source.jpeg&size=contain
 ## <span class="orange black-shadow">Open Source</span>
 
 ---
-##### [ASP.NET Core](https://github.com/aspnet)
-##### [.NET Core](https://github.com/dotnet)
-##### [Angular](https://github.com/angular)
-##### [TypeScript](https://github.com/Microsoft/TypeScript)
+#### [ASP.NET Core](https://github.com/aspnet)
+#### [.NET Core](https://github.com/dotnet)
+#### [Angular](https://github.com/angular)
+#### [TypeScript](https://github.com/Microsoft/TypeScript)
+
+Note:
+Docs, Specifications, Core CLR, etc.
+Personal Projects...
 
 ---?image=assets/mentor.jpeg&size=contain
 ## <span class="orange black-shadow">Mentoring</span>
+
+---
+#### Working With Junior
+#### Leading By Example
+#### Code Reviews
+#### Pair Programming
 
 ---?image=assets/conferences.jpg&size=contain
 ## <span class="orange black-shadow">Conferences</span>
