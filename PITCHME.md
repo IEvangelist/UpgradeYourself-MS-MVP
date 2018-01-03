@@ -63,10 +63,10 @@ Note:
 
 ---
 
-### [ievangelistblog.wordpress.com](https://ievangelistblog.wordpress.com/)
-### [medium.com/@davidpine7](https://medium.com/@davidpine7)
-### [davidpine.net/blog](https://davidpine.net/)
-### [www.dotnetcurry.com/author/david-pine](http://www.dotnetcurry.com/author/david-pine)
+#### [ievangelistblog.wordpress.com](https://ievangelistblog.wordpress.com/)
+#### [medium.com/@davidpine7](https://medium.com/@davidpine7)
+#### [davidpine.net/blog](https://davidpine.net/)
+#### [www.dotnetcurry.com/author/david-pine](http://www.dotnetcurry.com/author/david-pine)
 
 Note:
 Explain wordpress.com, dynamic website vs static websites. Explain medium and guest authoring. 
@@ -79,11 +79,11 @@ Note:
 
 ---
 
-### [Jeremy Clark - Next Speaker, You!](https://jeremybytes.blogspot.com/2011/08/meet-next-code-camp-speaker-you.html)
-### [David Neal - Barfing on your Shoes]()
-### [Cory House - Speaker Starter Kit](https://libraries.io/github/coryhouse/speaker-starter-kit)
-### [Troy Hunt - Speaker Bingo](https://www.troyhunt.com/speaker-style-bingo-10-presentation/)
-### [Scott Hanselman - Speaker Hacks](http://speakinghacks.com/)
+#### [Jeremy Clark - Next Speaker, You!](https://jeremybytes.blogspot.com/2011/08/meet-next-code-camp-speaker-you.html)
+#### [David Neal - Barfing on your Shoes]()
+#### [Cory House - Speaker Starter Kit](https://libraries.io/github/coryhouse/speaker-starter-kit)
+#### [Troy Hunt - Speaker Bingo](https://www.troyhunt.com/speaker-style-bingo-10-presentation/)
+#### [Scott Hanselman - Speaker Hacks](http://speakinghacks.com/)
 
 Note:
 ...
