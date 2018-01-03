@@ -63,10 +63,10 @@ Note:
 
 ---
 
-#### [ievangelistblog.wordpress.com](https://ievangelistblog.wordpress.com/)
-#### [medium.com/@davidpine7](https://medium.com/@davidpine7)
-#### [davidpine.net/blog](https://davidpine.net/)
-#### [www.dotnetcurry.com/author/david-pine](http://www.dotnetcurry.com/author/david-pine)
+### [ievangelistblog.wordpress.com](https://ievangelistblog.wordpress.com/)
+### [medium.com/@davidpine7](https://medium.com/@davidpine7)
+### [davidpine.net/blog](https://davidpine.net/)
+### [www.dotnetcurry.com/author/david-pine](http://www.dotnetcurry.com/author/david-pine)
 
 Note:
 Explain wordpress.com, dynamic website vs static websites. Explain medium and guest authoring. 
@@ -79,11 +79,11 @@ Note:
 
 ---
 
-#### [Jeremy Clark - Next Speaker, You!](https://jeremybytes.blogspot.com/2011/08/meet-next-code-camp-speaker-you.html)
-#### [David Neal - Barfing on your Shoes]()
-#### [Cory House - Speaker Starter Kit](https://libraries.io/github/coryhouse/speaker-starter-kit)
-#### [Troy Hunt - Speaker Bingo](https://www.troyhunt.com/speaker-style-bingo-10-presentation/)
-#### [Scott Hanselman - Speaker Hacks](http://speakinghacks.com/)
+### [Jeremy Clark - Next Speaker, You!](https://jeremybytes.blogspot.com/2011/08/meet-next-code-camp-speaker-you.html)
+### [David Neal - Barfing on your Shoes]()
+### [Cory House - Speaker Starter Kit](https://libraries.io/github/coryhouse/speaker-starter-kit)
+### [Troy Hunt - Speaker Bingo](https://www.troyhunt.com/speaker-style-bingo-10-presentation/)
+### [Scott Hanselman - Speaker Hacks](http://speakinghacks.com/)
 
 Note:
 ...
@@ -105,10 +105,10 @@ Note:
 ## <span class="orange black-shadow">Open Source</span>
 
 ---
-#### [ASP.NET Core](https://github.com/aspnet)
-#### [.NET Core](https://github.com/dotnet)
-#### [Angular](https://github.com/angular)
-#### [TypeScript](https://github.com/Microsoft/TypeScript)
+### [ASP.NET Core](https://github.com/aspnet)
+### [.NET Core](https://github.com/dotnet)
+### [Angular](https://github.com/angular)
+### [TypeScript](https://github.com/Microsoft/TypeScript)
 
 Note:
 Docs, Specifications, Core CLR, etc.
@@ -118,16 +118,16 @@ Personal Projects...
 ## <span class="orange black-shadow">Mentoring</span>
 
 ---
-#### Working With Junior
-#### Leading By Example
-#### Code Reviews
-#### Pair Programming
+### <span class="orange black-shadow">Code Reviews</span>
+### <span class="orange black-shadow">Pair Programming</span>
+### <span class="orange black-shadow">Buddy-Ducky</span>
+### <span class="orange black-shadow">Challenging</span>
 
 ---?image=assets/conferences.jpg&size=contain
 ## <span class="orange black-shadow">Conferences</span>
 
 ---
-## Attending
+## <span class="orange black-shadow">Attending</span>
 > Developers who attend technical conferences are among the top 1% of all developers
 
 ---
@@ -135,7 +135,7 @@ Personal Projects...
 <img src="assets/mke-dot-net.png" height="325" />
 
 ---
-# Words To Live By
+# <span class="orange black-shadow">Words To Live By</span>
 
 ---
 > Be the greatness that you seek in others
