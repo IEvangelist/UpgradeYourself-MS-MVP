@@ -19,7 +19,8 @@ I believe that you can never know anyone else without first knowing yourself. Th
 <img src="assets/disc-iD.png" height="325" />
 
 Note:
-...
+Behaviour: Extrovert, Direct, Assertive and Charming
+Motivated: Acheivement, Success and Recognition
 
 ---?image=assets/fast-lane.jpeg&size=contain
 ## <span class="black-shadow">Fast Lane</span>
@@ -79,6 +80,10 @@ Note:
 
 ---?image=assets/questions.jpg&size=contain
 ## <span class="orange black-shadow">Stack Overflow</span>
+
+---
+## <span class="orange black-shadow">#WinterBash</span>
+<img src="assets/winter-bash.jpg" height="325" />
 
 ---?image=assets/open-source.jpeg&size=contain
 ## <span class="orange black-shadow">Open Source</span>
