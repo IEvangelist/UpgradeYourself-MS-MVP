@@ -5,7 +5,22 @@
 
 ---
 ## <span class="orange black-shadow">Kardashev Scale</span>
-In 1986, Soviet astronomer Nikolai Kardashev invented this scale. The Kardashev scale is a method of measuring a civilization's level of technological advancement.
+This was proposed by the Soviet astronomer Nikolai Kardashev in 1964. The Kardashev scale is a method of measuring a civilization's level of technological advancement.
+
+---
+## <span class="orange black-shadow">Type I</span>
+> Planetary Civilization
+Can use and store all of the energy which reaches its planet from its parent star.
+
+---
+## <span class="orange black-shadow">Type II</span>
+> Stellar Civilization
+Can harness the total energy of its planet's parent star.
+
+---
+## <span class="orange black-shadow">Type III</span>
+> Galactic Civilization
+Can control energy on the scale of its entire host galaxy.
 
 ---?image=assets/holding-world.jpg&size=contain
 ## <span class="orange black-shadow">The World</span>
