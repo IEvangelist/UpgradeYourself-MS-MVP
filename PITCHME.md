@@ -19,6 +19,7 @@ This was proposed by the Soviet astronomer Nikolai Kardashev in 1964. The Kardas
 ## <span class="orange black-shadow">Type III</span>
 > "Galactic Civilization" Can control energy on the scale of its entire host galaxy.
 
+---
 ## <span class="orange black-shadow">As Of Today</span>
 Earth is a 0.72 on the scale. We are not even a Type I yet. It is predicted that in the next 100-200 years we will acheive this.
 
