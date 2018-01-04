@@ -4,6 +4,9 @@
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 
 ---
+# <span class="orange black-shadow">TL;DR;</span>
+
+---
 ## <span class="orange black-shadow">Kardashev Scale</span>
 This was proposed by the Soviet astronomer Nikolai Kardashev in 1964. The Kardashev scale is a method of measuring a civilization's level of technological advancement.
 
@@ -20,14 +23,17 @@ This was proposed by the Soviet astronomer Nikolai Kardashev in 1964. The Kardas
 > "Galactic Civilization" Can control energy on the scale of its entire host galaxy.
 
 ---
-## <span class="orange black-shadow">As Of Today</span>
-Earth is a 0.72 on the scale. We are not even a Type I yet. It is predicted that in the next 100-200 years we will acheive this.
+## <span class="orange black-shadow">As of Today</span>
+We scored a 0.72, we are not even a <strong>Type I</strong> yet. It is predicted that in the next 100-200 years we will acheive this.
 
 ---?image=assets/holding-world.jpg&size=contain
 ## <span class="orange black-shadow">The World</span>
 
 Note:
 We all want the world. We want to hold it in our hands, we want claim it as our own. We all has a sense of perpetuity whether in Code, Contributions or Projects. We want to feel like what we do matters.
+
+---
+# <span class="orange black-shadow">Downloading...</span>
 
 ---?image=assets/reflect.jpg&size=contain
 ## <span class="orange black-shadow">Know Thyself</span>
@@ -156,7 +162,7 @@ Personal Projects...
 <img src="assets/mke-dot-net.png" height="325" />
 
 ---
-# <span class="orange black-shadow">Words To Live By</span>
+# <span class="orange black-shadow">Installing...</span>
 
 ---
 > Be the greatness that you seek in others
