@@ -5,8 +5,7 @@
 
 ---
 # <span class="orange black-shadow">TL;DR;</span>
-#### Installer Instructions
-###### - [X] I Agree to the terms
+#### [ ] I Agree to the terms
 
 ---
 ## <span class="orange black-shadow">Kardashev Scale</span>
