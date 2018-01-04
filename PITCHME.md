@@ -34,7 +34,9 @@ Note:
 We all want the world. We want to hold it in our hands, we want claim it as our own. We all has a sense of perpetuity whether in Code, Contributions or Projects. We want to feel like what we do matters.
 
 ---
-## <span class="orange black-shadow">Downloading Upgrade Yourself Installer</span>
+## <span class="orange black-shadow">Downloading</span>
+### <span class="orange black-shadow">Upgrade Yourself</span>
+### <span class="orange black-shadow">Installer</span>
 #### Download speeds may vary!
 
 ---?image=assets/reflect.jpg&size=contain
