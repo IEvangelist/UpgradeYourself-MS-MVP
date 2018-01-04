@@ -2,6 +2,11 @@
 <img src="assets/me.jpg" height="325" />
 <br />
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
+
+---
+## <span class="orange black-shadow">Kardashev Scale</span>
+In 1986, Soviet astronomer Nikolai Kardashev invented this scale. The Kardashev scale is a method of measuring a civilization's level of technological advancement.
+
 ---?image=assets/holding-world.jpg&size=contain
 ## <span class="orange black-shadow">The World</span>
 
