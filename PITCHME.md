@@ -5,7 +5,7 @@
 
 ---
 # <span class="orange black-shadow">TL;DR;</span>
-#### [ ] I Agree to the terms
+#### [&nbsp;] I Agree to the terms
 
 ---
 ## <span class="orange black-shadow">Kardashev Scale</span>
