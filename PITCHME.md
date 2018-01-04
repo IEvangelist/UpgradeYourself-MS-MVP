@@ -4,8 +4,8 @@
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 
 ---
-# <span class="orange black-shadow">TL;DR;</span>
-#### [ _ ] I Agree to the terms
+## <span class="orange black-shadow">TL;DR;</span>
+#### Intructions...
 
 ---
 ## <span class="orange black-shadow">Kardashev Scale</span>
@@ -34,7 +34,7 @@ Note:
 We all want the world. We want to hold it in our hands, we want claim it as our own. We all has a sense of perpetuity whether in Code, Contributions or Projects. We want to feel like what we do matters.
 
 ---
-# <span class="orange black-shadow">Downloading...</span>
+## <span class="orange black-shadow">Downloading...</span>
 #### Download speeds may vary!
 
 ---?image=assets/reflect.jpg&size=contain
@@ -164,8 +164,8 @@ Personal Projects...
 <img src="assets/mke-dot-net.png" height="325" />
 
 ---
-# <span class="orange black-shadow">Installing...</span>
-#### Imagine an intermediate progress bar here
+## <span class="orange black-shadow">Installing...</span>
+#### [ _ ] I Agree to the terms
 
 ---
 > Be the greatness that you seek in others
