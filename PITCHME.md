@@ -5,6 +5,8 @@
 
 ---
 # <span class="orange black-shadow">TL;DR;</span>
+#### Installer Instructions
+###### [X] I Agree to the terms
 
 ---
 ## <span class="orange black-shadow">Kardashev Scale</span>
@@ -34,6 +36,7 @@ We all want the world. We want to hold it in our hands, we want claim it as our 
 
 ---
 # <span class="orange black-shadow">Downloading...</span>
+#### Download speeds may vary!
 
 ---?image=assets/reflect.jpg&size=contain
 ## <span class="orange black-shadow">Know Thyself</span>
@@ -163,6 +166,7 @@ Personal Projects...
 
 ---
 # <span class="orange black-shadow">Installing...</span>
+#### Imagine an intermediate progress bar here
 
 ---
 > Be the greatness that you seek in others
