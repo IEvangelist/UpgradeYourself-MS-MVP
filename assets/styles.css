@@ -1,4 +1,4 @@
-.black-shadow {
+.black-shadow, a {
   text-shadow: 0 0 35px black;
 }
 
@@ -9,6 +9,6 @@
 .black {
   color: black;
 }
-.orange {
+.orange, a {
   color: orange;
 }
