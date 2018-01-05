@@ -170,7 +170,7 @@ Personal Projects...
 
 ---
 #### <span class="orange black-shadow">Installing</span>
-## <span class="orange black-shadow">"Upgrade Yourself"</span>
+## <span class="orange black-shadow">" Upgrade Yourself "</span>
 #### <span class="orange black-shadow">Application</span>
 #### [ _ ] I Agree to the terms and conditions
 
