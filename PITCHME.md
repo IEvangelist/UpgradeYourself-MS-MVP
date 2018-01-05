@@ -4,6 +4,13 @@
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 
 ---
+# <span class="orange black-shadow">Agenda</span>
+
+#### <span class="orange black-shadow">Instructions</span>
+#### <span class="orange black-shadow">Download</span>
+#### <span class="orange black-shadow">Install</span>
+
+---
 # <span class="orange black-shadow">TL;DR;</span>
 ## Intructions...
 
