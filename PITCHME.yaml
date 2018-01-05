@@ -1,4 +1,3 @@
 theme: night
 theme-override : assets/styles.css
 remote-control: true
-mousewheel: true
