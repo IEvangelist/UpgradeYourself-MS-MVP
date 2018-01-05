@@ -4,8 +4,8 @@
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 
 ---
-## <span class="orange black-shadow">TL;DR;</span>
-#### Intructions...
+# <span class="orange black-shadow">TL;DR;</span>
+## Intructions...
 
 ---
 ## <span class="orange black-shadow">Kardashev Scale</span>
