@@ -45,9 +45,9 @@ We do not hear ...
 > Make the galaxy a better place
 
 ---
-## <span class="orange black-shadow">Downloading</span>
-### <span class="orange black-shadow">Upgrade Yourself</span>
-### <span class="orange black-shadow">Installer</span>
+#### <span class="orange black-shadow">Downloading</span>
+## <span class="orange black-shadow">"Upgrade Yourself"</span>
+#### <span class="orange black-shadow">Installer</span>
 #### Download speeds may vary!
 
 ---?image=assets/reflect.jpg&size=contain
@@ -177,8 +177,10 @@ Personal Projects...
 <img src="assets/mke-dot-net.png" height="325" />
 
 ---
-## <span class="orange black-shadow">Installing Upgrade Yourself</span>
-#### [ _ ] I Agree to the terms
+#### <span class="orange black-shadow">Installing</span>
+## <span class="orange black-shadow">"Upgrade Yourself"</span>
+#### 
+#### [ _ ] I Agree to the terms and conditions
 
 ---
 > Be the greatness that you seek in others
