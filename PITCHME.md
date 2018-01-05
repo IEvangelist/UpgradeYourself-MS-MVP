@@ -35,9 +35,13 @@ We all want the world. We want to hold it in our hands, we want claim it as our 
 
 ---
 > Make the world a better place
+
 <br/>
+
 We do not hear ...
+
 <br/>
+
 > Make the galaxy a better place
 
 ---
