@@ -6,9 +6,9 @@
 ---
 # <span class="orange black-shadow">Agenda</span>
 
-#### <span class="orange black-shadow">Instructions</span>
-#### <span class="orange black-shadow">Download</span>
-#### <span class="orange black-shadow">Install</span>
+#### Instructions
+#### Download Installer
+#### Press Install (Agreement Pending)
 
 ---
 # <span class="orange black-shadow">TL;DR;</span>
