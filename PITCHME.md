@@ -11,8 +11,8 @@
 #### Press Install (Agreement Pending)
 
 ---
-# <span class="orange black-shadow">TL;DR;</span>
-## Intructions...
+# <span class="orange black-shadow">Intructions</span>
+## TL;DR;
 
 ---
 ## <span class="orange black-shadow">Kardashev Scale</span>
