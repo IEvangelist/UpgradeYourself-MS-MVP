@@ -53,6 +53,13 @@ I believe that you can never know anyone else without first knowing yourself. Th
 
 ---
 ## <span class="orange black-shadow">DiSC</span>
+#### <span class="orange black-shadow">Dominance</span>
+#### <span class="orange black-shadow">Inducement</span>
+#### <span class="orange black-shadow">Submission</span>
+#### <span class="orange black-shadow">Compliance</span>
+
+---
+## <span class="orange black-shadow">DiSC</span>
 <img src="assets/disc-iD.png" height="325" />
 
 Note:
