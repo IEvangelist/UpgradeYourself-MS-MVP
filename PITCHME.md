@@ -66,6 +66,9 @@ Note:
 Behaviour: Extrovert, Direct, Assertive and Charming
 Motivated: Acheivement, Success and Recognition
 
+---?image=assets/imposter.jpg&size=contain
+## <span class="orange black-shadow">Imposter Syndrome</span>
+
 ---?image=assets/fast-lane.jpeg&size=contain
 ## <span class="black-shadow">Fast Lane</span>
 
