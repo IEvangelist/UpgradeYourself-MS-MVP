@@ -1,3 +1,26 @@
+<script>document.onkeydown = function (e) {
+    if (e.keyCode == 40) {
+        reWriteKey("39", e);
+    }
+    else if (e.keyCode == 38) {
+        reWriteKey("37", e);
+    }
+    console.log(e);
+};
+function reWriteKey(value, ke) {
+    var e = new Event("keydown");
+    e.isTrusted = true;
+    e.key = value;
+    e.keyCode = e.key.charCodeAt(0);
+    e.which = e.keyCode;
+    e.altKey = ke.altKey;
+    e.ctrlKey = ke.ctrlKey;
+    e.shiftKey = ke.shiftKey;
+    e.metaKey = ke.metaKey;
+    e.bubbles = ke.bubbles;
+    document.dispatchEvent(e);
+}
+</script>
 ## Upgrade Yourself
 <img src="assets/me.jpg" height="325" />
 <br />
