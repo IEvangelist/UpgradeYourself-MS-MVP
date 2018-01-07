@@ -75,6 +75,13 @@ Motivated: Acheivement, Success and Recognition
 Note:
 Life comes at you fast, and it all seems like a blur. It is our responsibility to have the foresight to what is coming ahead of us. Have you ever driven in the fast lane, only to be slowed down by another driver who is going 45 mph?
 
+---?image=assets/1_week.png&size=contain
+---?image=assets/1_month.png&size=contain
+---?image=assets/1_year.png&size=contain
+---?image=assets/3_years.png&size=contain
+---?image=assets/6_years.png&size=contain
+---?image=assets/10_years.png&size=contain
+
 ---?image=assets/accident.jpeg&size=contain
 ## <span class="orange black-shadow">Distractions</span>
 
