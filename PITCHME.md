@@ -38,7 +38,7 @@ We scored a 0.72, we are not even a <strong>Type I</strong> yet. It is predicted
 ## <span class="orange black-shadow">The World</span>
 
 Note:
-We all want the world. We want to hold it in our hands, we want claim it as our own. We all has a sense of perpetuity whether in Code, Contributions or Projects. We want to feel like what we do matters.
+We all want the world. We want to hold it in our hands, we want claim it as our own. We all have a sense of perpetuity whether in Code, Contributions or Projects. We want to feel like what we do matters.
 
 ---
 > Let's make the world a better place
@@ -92,7 +92,7 @@ Blake lights, all the cars are stopped -- traffic comes to a hault. But you late
 ## <span class="orange black-shadow">Trapped</span>
 
 Note:
-Do you ever feel trapped or stuck...whether on a problem, or a project or even your career? Are they road blocks in your life that you have yet to go around?
+Do you ever feel trapped or stuck...whether on a problem, or a project or even your career? Are there road blocks in your life that you have yet to go around?
 
 ---?image=assets/wet-road.jpeg&size=contain
 ## <span class="orange black-shadow">Realization</span>
