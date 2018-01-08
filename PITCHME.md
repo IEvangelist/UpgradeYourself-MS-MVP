@@ -203,6 +203,9 @@ Personal Projects...
 ---
 > Value the efforts of your peers
 
+---?image=assets/problem-solving.jpeg&size=contain
+## <span class="orange black-shadow">Final Thoughts</span>
+
 ---
 # Thank you
 ## [bit.ly/upgrade-self](http://bit.ly/upgrade-self)
