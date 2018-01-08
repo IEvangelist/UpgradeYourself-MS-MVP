@@ -8,7 +8,7 @@
 
 #### Instructions
 #### Download Installer
-#### Press Install (Agreement Pending)
+#### Install (Agreement Pending)
 
 ---
 # <span class="orange black-shadow">Intructions</span>
