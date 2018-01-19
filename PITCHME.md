@@ -16,7 +16,7 @@
 
 ---
 ## <span class="orange black-shadow">Kardashev Scale</span>
-This was proposed by the Soviet astronomer Nikolai Kardashev in 1964. The Kardashev scale is a method of measuring a civilization's level of technological advancement.
+In 1964 Soviet astronomer Nikolai Karashev proposed a method of measuring a civilization's level of technological advancement.
 
 ---
 ## <span class="orange black-shadow">Type I</span>
@@ -209,5 +209,6 @@ Personal Projects...
 ---
 # Thank you
 ## [bit.ly/upgrade-self](http://bit.ly/upgrade-self)
+#### [bit.ly/upgrade-yourself-slides](http://bit.ly/upgrade-yourself-slides) 
 <br/>
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
