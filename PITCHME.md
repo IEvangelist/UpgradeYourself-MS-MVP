@@ -206,6 +206,11 @@ Personal Projects...
 ---?image=assets/problem-solving.jpeg&size=contain
 ## <span class="orange black-shadow">Final Thoughts</span>
 
+Notes:
+Our time on earth is limited.
+Make the most of it.
+Kardashev Scale, Type III's will look back at our successes - let's make them proud.
+
 ---
 # Thank you
 ## [bit.ly/upgrade-self](http://bit.ly/upgrade-self)
