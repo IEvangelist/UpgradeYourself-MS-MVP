@@ -63,6 +63,8 @@ I believe that you can never know anyone else without first knowing yourself. Th
 <img src="assets/disc-iD.png" height="325" />
 
 Note:
+Dominance (D), Inducement (I), Submission (S), and Compliance (C)
+
 Behaviour: Extrovert, Direct, Assertive and Charming
 Motivated: Acheivement, Success and Recognition
 
