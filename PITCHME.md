@@ -4,13 +4,6 @@
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 
 ---
-# <span class="orange black-shadow">Agenda</span>
-
-#### Instructions
-#### Download Installer
-#### Install (Agreement Pending)
-
----
 # <span class="orange black-shadow">Intructions</span>
 ## TL;DR;
 
@@ -91,15 +84,17 @@ Note:
 ---?image=assets/blogging.jpeg&size=contain
 ## <span class="orange black-shadow">Blogging</span>
 
-Note:
-...
+---?image=assets/blogging.jpeg&size=contain
+## <span class="orange black-shadow">[ievangelistblog.wordpress.com](https://ievangelistblog.wordpress.com/)</span>
 
----
+---?image=assets/blogging.jpeg&size=contain
+## <span class="orange black-shadow">[davidpine.net/blog](https://davidpine.net/)</span>
 
-#### [ievangelistblog.wordpress.com](https://ievangelistblog.wordpress.com/)
-#### [medium.com/@davidpine7](https://medium.com/@davidpine7)
-#### [davidpine.net/blog](https://davidpine.net/)
-#### [www.dotnetcurry.com/author/david-pine](http://www.dotnetcurry.com/author/david-pine)
+---?image=assets/blogging.jpeg&size=contain
+## <span class="orange black-shadow">[medium.com/@davidpine7](https://medium.com/@davidpine7)</span>
+
+---?image=assets/blogging.jpeg&size=contain
+## <span class="orange black-shadow">[www.dotnetcurry.com/author/david-pine](http://www.dotnetcurry.com/author/david-pine)</span>
 
 Note:
 Explain wordpress.com, dynamic website vs static websites. Explain medium and guest authoring. 
