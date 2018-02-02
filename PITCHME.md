@@ -94,7 +94,7 @@ Note:
 ### <span class="orange black-shadow">[medium.com/@davidpine7](https://medium.com/@davidpine7)</span>
 
 ---?image=assets/blogging.jpeg&size=contain
-### <span class="orange black-shadow">[www.dotnetcurry.com/author/david-pine](http://www.dotnetcurry.com/author/david-pine)</span>
+### <span class="orange black-shadow">[dotnetcurry.com/author/david-pine](http://www.dotnetcurry.com/author/david-pine)</span>
 
 Note:
 Explain wordpress.com, dynamic website vs static websites. Explain medium and guest authoring. 
