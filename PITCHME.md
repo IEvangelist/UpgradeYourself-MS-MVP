@@ -14,26 +14,6 @@
 # <span class="orange black-shadow">Intructions</span>
 ## TL;DR;
 
----
-## <span class="orange black-shadow">Kardashev Scale</span>
-In 1964 Soviet astronomer Nikolai Karashev proposed a method of measuring a civilization's level of technological advancement.
-
----
-## <span class="orange black-shadow">Type I</span>
-> "Planetary Civilization" Can use and store all of the energy which reaches its planet from its parent star.
-
----
-## <span class="orange black-shadow">Type II</span>
-> "Stellar Civilization" Can harness the total energy of its planet's parent star.
-
----
-## <span class="orange black-shadow">Type III</span>
-> "Galactic Civilization" Can control energy on the scale of its entire host galaxy.
-
----
-## <span class="orange black-shadow">As of Today</span>
-We scored a 0.72, we are not even a <strong>Type I</strong> yet. It is predicted that in the next 100-200 years we will acheive this.
-
 ---?image=assets/holding-world.jpg&size=contain
 ## <span class="orange black-shadow">The World</span>
 
@@ -188,12 +168,6 @@ Personal Projects...
 <img src="assets/mke-dot-net.png" height="325" />
 
 ---
-#### <span class="orange black-shadow">Installing</span>
-## <span class="orange black-shadow">" Upgrade Yourself "</span>
-#### <span class="orange black-shadow">Application</span>
-#### [ _ ] I Agree to the terms and conditions
-
----
 > Be the greatness that you seek in others
 
 ---
@@ -205,6 +179,13 @@ Personal Projects...
 ---
 > Value the efforts of your peers
 
+---
+> I have not failed, I've just found 10,000 ways that won't work
+> <cite>Thomas Edison</cite>
+
+---?image=assets/galaxy.jpeg&size=contain
+## <span class="orange black-shadow">Kardashev Scale</span>
+
 ---?image=assets/problem-solving.jpeg&size=contain
 ## <span class="orange black-shadow">Final Thoughts</span>
 
@@ -215,7 +196,7 @@ Kardashev Scale, Type III's will look back at our successes - let's make them pr
 
 ---
 # Thank you
-## [bit.ly/upgrade-self](http://bit.ly/upgrade-self)
-#### [bit.ly/upgrade-yourself-slides](http://bit.ly/upgrade-yourself-slides) 
+## [bit.ly/upgrade-yourself-slides](http://bit.ly/upgrade-yourself-slides)
+#### [bit.ly/upgrade-self](http://bit.ly/upgrade-self)
 <br/>
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
