@@ -196,7 +196,7 @@ Kardashev Scale, Type III's will look back at our successes - let's make them pr
 
 ---
 # Thank you
-## [bit.ly/upgrade-yourself-slides](http://bit.ly/upgrade-yourself-slides)
+### [bit.ly/upgrade-yourself-slides](http://bit.ly/upgrade-yourself-slides)
 #### [bit.ly/upgrade-self](http://bit.ly/upgrade-self)
 <br/>
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
