@@ -4,15 +4,15 @@
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 
 ---
-# <span class="orange black-shadow">Introduction</span>
+# <span class="orange black-shadow">Intro</span>
 ## TL;DR;
 
 ---
 
-### <span class="orange black-shadow">Birth</span>
-### <span class="orange black-shadow">Siblings</span>
-### <span class="orange black-shadow">Wealth</span>
-### <span class="orange black-shadow">Education</span>
+## <span class="orange black-shadow">Birth</span>
+## <span class="orange black-shadow">Siblings</span>
+## <span class="orange black-shadow">Wealth</span>
+## <span class="orange black-shadow">Education</span>
 
 ---
 > Expect nothing, but be grateful for everything
@@ -25,6 +25,15 @@ We all want the world. We want to hold it in our hands, we want claim it as our 
 
 ---
 > Let's make the world a better place
+
+---?image=assets/college.jpeg&size=contain
+## <span class="orange black-shadow">College</span>
+
+---?image=assets/cubicles.jpg&size=contain
+## <span class="orange black-shadow">Cube Etiquette</span>
+
+---?image=assets/calculator.jpeg&size=contain
+## <span class="orange black-shadow">Early App</span>
 
 ---?image=assets/reflect.jpg&size=contain
 ## <span class="orange black-shadow">Know Thyself</span>
