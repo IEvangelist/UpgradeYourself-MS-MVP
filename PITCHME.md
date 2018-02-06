@@ -30,7 +30,7 @@ We all want the world. We want to hold it in our hands, we want claim it as our 
 ## <span class="orange black-shadow">College</span>
 
 ---?image=assets/cubicles.jpg&size=contain
-## <span class="orange black-shadow">Cube Etiquette</span>
+## <span class="orange black-shadow">Opportunity</span>
 
 ---?image=assets/calculator.jpeg&size=contain
 ## <span class="orange black-shadow">Early App</span>
@@ -47,10 +47,10 @@ I believe that you can never know anyone else without first knowing yourself. Th
 ---
 ## <span class="orange black-shadow">DiSC</span>
 
-### <span class="orange black-shadow">Dominance (D)</span>
-### <span class="orange black-shadow">Inducement (I)</span>
-### <span class="orange black-shadow">Submission (S)</span>
-### <span class="orange black-shadow">Compliance (C)</span>
+### <span class="orange black-shadow">Dominance</span>
+### <span class="orange black-shadow">Inducement</span>
+### <span class="orange black-shadow">Submission</span>
+### <span class="orange black-shadow">Compliance</span>
 
 ---
 ## <span class="orange black-shadow">DiSC</span>
@@ -59,6 +59,12 @@ I believe that you can never know anyone else without first knowing yourself. Th
 Note:
 Behaviour: Extrovert, Direct, Assertive and Charming
 Motivated: Acheivement, Success and Recognition
+
+---?image=assets/cubicles.jpg&size=contain
+## <span class="orange black-shadow">Cube Etiquette</span>
+
+---?image=assets/fingernails.jpg&size=contain
+## <span class="orange black-shadow">Finger Nails</span>
 
 ---?image=assets/imposter.jpg&size=contain
 ## <span class="orange black-shadow">Imposter Syndrome</span>
