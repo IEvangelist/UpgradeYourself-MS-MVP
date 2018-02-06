@@ -46,11 +46,17 @@ I believe that you can never know anyone else without first knowing yourself. Th
 
 ---
 ## <span class="orange black-shadow">DiSC</span>
+
+### <span class="orange black-shadow">Dominance (D)</span>
+### <span class="orange black-shadow">Inducement (I)</span>
+### <span class="orange black-shadow">Submission (S)</span>
+### <span class="orange black-shadow">Compliance (C)</span>
+
+---
+## <span class="orange black-shadow">DiSC</span>
 <img src="assets/disc-iD.png" height="325" />
 
 Note:
-Dominance (D), Inducement (I), Submission (S), and Compliance (C)
-
 Behaviour: Extrovert, Direct, Assertive and Charming
 Motivated: Acheivement, Success and Recognition
 
