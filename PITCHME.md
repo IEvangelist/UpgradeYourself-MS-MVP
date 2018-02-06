@@ -42,6 +42,9 @@ We all want the world. We want to hold it in our hands, we want claim it as our 
 ---?image=assets/6_years.png&size=contain
 ---?image=assets/10_years.png&size=contain
 
+---
+> I have not failed, I've just found 10,000 ways that won't work
+
 ---?image=assets/reflect.jpg&size=contain
 ## <span class="orange black-shadow">Know Thyself</span>
 
@@ -195,10 +198,6 @@ Personal Projects...
 
 ---
 > Value the efforts of your peers
-
----
-> I have not failed, I've just found 10,000 ways that won't work
-> <cite>Thomas Edison</cite>
 
 ---?image=assets/galaxy.jpg&size=contain
 ## <span class="orange black-shadow">Kardashev Scale</span>
