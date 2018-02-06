@@ -4,8 +4,18 @@
 [@davidpine7](https://twitter.com/davidpine7) | [davidpine.net](http://davidpine.net/)
 
 ---
-# <span class="orange black-shadow">Intructions</span>
+# <span class="orange black-shadow">Introduction</span>
 ## TL;DR;
+
+---
+
+### <span class="orange black-shadow">Birth</span>
+### <span class="orange black-shadow">Siblings</span>
+### <span class="orange black-shadow">Wealth</span>
+### <span class="orange black-shadow">Education</span>
+
+---
+> Expect nothing, but be grateful for everything
 
 ---?image=assets/holding-world.jpg&size=contain
 ## <span class="orange black-shadow">The World</span>
@@ -15,12 +25,6 @@ We all want the world. We want to hold it in our hands, we want claim it as our 
 
 ---
 > Let's make the world a better place
-
----
-#### <span class="orange black-shadow">Downloading</span>
-## <span class="orange black-shadow">" Upgrade Yourself "</span>
-#### <span class="orange black-shadow">Installer</span>
-#### Download speeds may vary!
 
 ---?image=assets/reflect.jpg&size=contain
 ## <span class="orange black-shadow">Know Thyself</span>
@@ -164,9 +168,6 @@ Personal Projects...
 
 ---
 > Be the greatness that you seek in others
-
----
-> Expect nothing, but be grateful for everything
 
 ---
 > Don't just listen to others, heed their words
