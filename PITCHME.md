@@ -200,7 +200,7 @@ Personal Projects...
 > I have not failed, I've just found 10,000 ways that won't work
 > <cite>Thomas Edison</cite>
 
----?image=assets/galaxy.jpeg&size=contain
+---?image=assets/galaxy.jpg&size=contain
 ## <span class="orange black-shadow">Kardashev Scale</span>
 
 ---?image=assets/problem-solving.jpeg&size=contain
