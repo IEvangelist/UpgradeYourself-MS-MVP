@@ -66,18 +66,21 @@ I believe that you can never know anyone else without first knowing yourself. Th
 ## <span class="orange black-shadow">DiSC</span>
 <img src="assets/disc-iD.png" height="325" />
 
-Note:
-Behaviour: Extrovert, Direct, Assertive and Charming
-Motivated: Acheivement, Success and Recognition
+---
+## <span class="orange black-shadow">DiSC</span>
+- Behaviour: 
+  - Extrovert, Direct, Assertive and Charming
+- Motivated: 
+  - Acheivement, Success and Recognition
 
 ---?image=assets/cubicles.jpg&size=contain
 ## <span class="orange black-shadow">Cube Etiquette</span>
 
 ---?image=assets/fingernails.jpg&size=contain
-## <span class="orange black-shadow">Finger Nails</span>
+## <span class="orange black-shadow">Clipping Finger Nails</span>
 
 ---?image=assets/stinky.jpg&size=contain
-## <span class="orange black-shadow">Farts</span>
+## <span class="orange black-shadow">Cubicle Flatulence</span>
 
 ---?image=assets/imposter.jpg&size=contain
 ## <span class="orange black-shadow">Imposter Syndrome</span>
