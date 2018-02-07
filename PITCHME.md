@@ -67,10 +67,11 @@ I believe that you can never know anyone else without first knowing yourself. Th
 <img src="assets/disc-iD.png" height="325" />
 
 ---
-## <span class="orange black-shadow">DiSC</span>
-- Behaviour: 
+## <span class="orange black-shadow">DiSC (iD)</span>
+
+- <span class="orange black-shadow">Behaviour</span> 
   - Extrovert, Direct, Assertive and Charming
-- Motivated: 
+- <span class="orange black-shadow">Motivated</span>
   - Acheivement, Success and Recognition
 
 ---?image=assets/cubicles.jpg&size=contain
