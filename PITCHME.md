@@ -10,9 +10,9 @@
 ---
 
 ## <span class="orange black-shadow">Birth</span> &nbsp; @fa[fa-bug]
-## <span class="orange black-shadow">Siblings</span> &nbsp; fa@[fa-child] x9
-## <span class="orange black-shadow">Wealth</span> &nbsp; fa@[fa-dollar-sign]
-## <span class="orange black-shadow">Education</span> &nbsp; fa@[fa-poo]
+## <span class="orange black-shadow">Siblings</span> &nbsp; @fa[fa-child] x9
+## <span class="orange black-shadow">Wealth</span> &nbsp; @fa[fa-dollar-sign]
+## <span class="orange black-shadow">Education</span> &nbsp; @fa[fa-poo]
 
 ---
 > Expect nothing, but be grateful for everything
