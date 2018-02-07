@@ -9,10 +9,10 @@
 
 ---
 
-## <span class="orange black-shadow">Birth</span>
-## <span class="orange black-shadow">Siblings</span>
-## <span class="orange black-shadow">Wealth</span>
-## <span class="orange black-shadow">Education</span>
+## <i class="fa fa-bug"></i><span class="orange black-shadow">Birth</span>
+## <i class="fa fa-child"></i><i class="fa fa-child"></i><i class="fa fa-child"></i><i class="fa fa-child"></i><i class="fa fa-child"></i><i class="fa fa-child"></i><i class="fa fa-child"></i><i class="fa fa-child"></i><i class="fa fa-child"></i><span class="orange black-shadow">Siblings</span>
+## <i class="fa fa-money-bill-alt"></i><span class="orange black-shadow">Wealth</span>
+## <i class="fa fa-graduation-cap"></i><span class="orange black-shadow">Education</span>
 
 ---
 > Expect nothing, but be grateful for everything
