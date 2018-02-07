@@ -85,7 +85,7 @@ I believe that you can never know anyone else without first knowing yourself. Th
 ## 2. <span class="orange black-shadow">Cubicle Flatulence</span>
 
 ---?image=assets/screaming.jpg&size=contain
-## 3. <span class="orange black-shadow">Screaming At Each Other</span>
+## 3. <span class="orange black-shadow">Screaming</span>
 
 ---?image=assets/imposter.jpg&size=contain
 ## <span class="orange black-shadow">Imposter Syndrome</span>
