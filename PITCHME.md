@@ -79,13 +79,13 @@ I believe that you can never know anyone else without first knowing yourself. Th
 #### <span class="white black-shadow">(THINGS TO AVOID)</span>
 
 ---?image=assets/fingernails.jpg&size=contain
-## 1) <span class="orange black-shadow">Clipping Finger Nails</span>
+## 1. <span class="orange black-shadow">Clipping Finger Nails</span>
 
 ---?image=assets/stinky.jpg&size=contain
-## 2) <span class="orange black-shadow">Cubicle Flatulence</span>
+## 2. <span class="orange black-shadow">Cubicle Flatulence</span>
 
 ---?image=assets/screaming.jpg&size=contain
-## 3) <span class="orange black-shadow">Screaming At Each Other</span>
+## 3. <span class="orange black-shadow">Screaming At Each Other</span>
 
 ---?image=assets/imposter.jpg&size=contain
 ## <span class="orange black-shadow">Imposter Syndrome</span>
