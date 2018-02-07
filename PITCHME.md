@@ -76,6 +76,7 @@ I believe that you can never know anyone else without first knowing yourself. Th
 
 ---?image=assets/cubicles.jpg&size=contain
 ## <span class="orange black-shadow">Cube Etiquette</span>
+#### <span class="white black-shadow">(THINGS TO AVOID)</span>
 
 ---?image=assets/fingernails.jpg&size=contain
 ## <span class="orange black-shadow">Clipping Finger Nails</span>
