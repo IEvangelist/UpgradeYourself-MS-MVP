@@ -76,6 +76,9 @@ Motivated: Acheivement, Success and Recognition
 ---?image=assets/fingernails.jpg&size=contain
 ## <span class="orange black-shadow">Finger Nails</span>
 
+---?image=assets/stinky.jpg&size=contain
+## <span class="orange black-shadow">Farts</span>
+
 ---?image=assets/imposter.jpg&size=contain
 ## <span class="orange black-shadow">Imposter Syndrome</span>
 
