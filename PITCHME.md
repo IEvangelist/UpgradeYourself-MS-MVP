@@ -9,10 +9,10 @@
 
 ---
 
-- @fa[bug](<span class="orange black-shadow">Birth</span>)
-- @fa[child](<span class="orange black-shadow">Siblings</span>)
-- @fa[money](<span class="orange black-shadow">Wealth</span>)
-- @fa[frown-o](<span class="orange black-shadow">Education</span>)
+- ### @fa[bug](<span class="orange black-shadow">Birth</span>)
+- ### @fa[child](<span class="orange black-shadow">Siblings</span>)
+- ### @fa[money](<span class="orange black-shadow">Wealth</span>)
+- ### @fa[frown-o](<span class="orange black-shadow">Education</span>)
 
 ---
 > Expect nothing, but be grateful for everything
