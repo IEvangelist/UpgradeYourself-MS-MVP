@@ -76,7 +76,7 @@ I believe that you can never know anyone else without first knowing yourself. Th
 
 ---?image=assets/cubicles.jpg&size=contain
 ## <span class="orange black-shadow">Cube Etiquette</span>
-#### <span class="white black-shadow">(THINGS TO AVOID)</span>
+### <span class="white black-shadow">(THINGS TO AVOID)</span>
 
 ---?image=assets/fingernails.jpg&size=contain
 ## 1. <span class="orange black-shadow">Clipping Finger Nails</span>
@@ -89,7 +89,7 @@ I believe that you can never know anyone else without first knowing yourself. Th
 
 ---?image=assets/imposter.jpg&size=contain
 ## <span class="orange black-shadow">Imposter Syndrome</span>
-#### <span class="black white-shadow">(KICKIN' ASS)</span>
+### <span class="black white-shadow">(KICKIN' ASS)</span>
 
 ---?image=assets/fast-lane.jpeg&size=contain
 ## <span class="black-shadow">Fast Lane</span>
