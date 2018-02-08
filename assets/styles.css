@@ -19,3 +19,7 @@
   background-color: rgba(0, 0, 0, 0.7);
   box-shadow: 0px 0px 75px 1px white;
 }
+
+.reveal ul { 
+  list-style: none;
+}
