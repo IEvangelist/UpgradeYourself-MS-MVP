@@ -4,3 +4,5 @@ remote-control: true
 remote-control-prevkey: 38
 remote-control-nextkey: 40
 transition : slide
+published: true
+footnote : "Upgrade Yourself | bit.ly/upgrade-yourself-slides | @davidpine7"
