@@ -7,8 +7,8 @@
 }
 
 .black {
-  color: black;
+  color: black !important;
 }
 .orange, a {
-  color: orange;
+  color: orange !important;
 }
