@@ -69,9 +69,9 @@ I believe that you can never know anyone else without first knowing yourself. Th
 ---
 ## <span class="orange black-shadow">DiSC (iD)</span>
 
-- <span class="orange black-shadow">Behaviour</span> 
+- ### <span class="orange black-shadow">Behaviour</span> 
   - Extrovert, Direct, Assertive and Charming
-- <span class="orange black-shadow">Motivated</span>
+- ### <span class="orange black-shadow">Motivated</span>
   - Acheivement, Success and Recognition
 
 ---?image=assets/cubicles.jpg&size=contain
