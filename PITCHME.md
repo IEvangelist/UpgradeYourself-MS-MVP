@@ -115,6 +115,9 @@ Do you ever feel trapped or stuck...whether on a problem, or a project or even y
 Note:
 It's wet and yucky...right. No, it smells amazing after it rains. It is cool and beautiful. Be positive!!
 
+---
+> Never be afraid to ask questions!
+
 ---?image=assets/lonely.jpeg&size=contain
 ## <span class="orange black-shadow">Social Developer</span>
 
@@ -169,6 +172,9 @@ Note:
 Note:
 ...
 
+---
+> Value the efforts of your peers
+
 ---?image=assets/open-source.jpeg&size=contain
 ## <span class="orange black-shadow">Open Source</span>
 
@@ -209,12 +215,6 @@ Personal Projects...
 
 ---
 > Be the greatness that you seek in others
-
----
-> Don't just listen to others, heed their words
-
----
-> Value the efforts of your peers
 
 ---?image=assets/galaxy.jpg&size=contain
 ## <span class="orange black-shadow">Kardashev Scale</span>
