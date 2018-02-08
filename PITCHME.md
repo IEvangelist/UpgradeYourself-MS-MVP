@@ -191,7 +191,7 @@ Personal Projects...
 ---?image=assets/octocat.png&size=contain
 
 ---?image=assets/magic-mirror.png&size=contain
-## <span class="orange black-shadow">[bit.ly/mirror-magic](http://bit.ly/mirror-magic)</span>
+## <span class="pop-box orange black-shadow">[bit.ly/mirror-magic](http://bit.ly/mirror-magic)</span>
 
 ---?image=assets/mentor.jpeg&size=contain
 ## <span class="orange black-shadow">Mentoring</span>
