@@ -183,7 +183,6 @@ Docs, Specifications, Core CLR, etc.
 Personal Projects...
 
 ---?image=assets/octocat.png&size=contain
-## <span class="orange black-shadow">GitHub</span>
 
 ---?image=assets/magic-mirror.png&size=contain
 ## <span class="orange black-shadow">[bit.ly/mirror-magic](http://bit.ly/mirror-magic)</span>
