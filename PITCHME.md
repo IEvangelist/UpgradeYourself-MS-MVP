@@ -89,6 +89,7 @@ I believe that you can never know anyone else without first knowing yourself. Th
 
 ---?image=assets/imposter.jpg&size=contain
 ## <span class="orange black-shadow">Imposter Syndrome</span>
+## <span class="black black-shadow">(Overcoming)</span>
 
 ---?image=assets/fast-lane.jpeg&size=contain
 ## <span class="black-shadow">Fast Lane</span>
