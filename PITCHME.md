@@ -145,35 +145,30 @@ Explain wordpress.com, dynamic website vs static websites. Explain medium and gu
 ---?image=assets/speaking.jpg&size=contain
 ## <span class="orange black-shadow">Speaking</span>
 
-Note:
-...
+---?image=assets/speaking.jpg&size=contain
+## <span class="orange black-shadow">[Jeremy Clark - Next Speaker, You!](https://jeremybytes.blogspot.com/2011/08/meet-next-code-camp-speaker-you.html)</span>
+
+---?image=assets/speaking.jpg&size=contain
+## <span class="orange black-shadow">[David Neal - Barfing on your Shoes](http://reverentgeek.com/public-speaking-without-barfing-on-your-shoes)</span>
+
+---?image=assets/speaking.jpg&size=contain
+## <span class="orange black-shadow">[Cory House - Speaker Starter Kit](https://libraries.io/github/coryhouse/speaker-starter-kit)</span>
+
+---?image=assets/speaking.jpg&size=contain
+## <span class="orange black-shadow">[Troy Hunt - Speaker Bingo](https://www.troyhunt.com/speaker-style-bingo-10-presentation)</span>
+
+---?image=assets/speaking.jpg&size=contain
+## <span class="orange black-shadow">[Scott Hanselman - Speaker Hacks](http://speakinghacks.com)</span>
 
 ---
-
-#### [Jeremy Clark - Next Speaker, You!](https://jeremybytes.blogspot.com/2011/08/meet-next-code-camp-speaker-you.html)
-#### [David Neal - Barfing on your Shoes](http://reverentgeek.com/public-speaking-without-barfing-on-your-shoes)
-#### [Cory House - Speaker Starter Kit](https://libraries.io/github/coryhouse/speaker-starter-kit)
-#### [Troy Hunt - Speaker Bingo](https://www.troyhunt.com/speaker-style-bingo-10-presentation)
-#### [Scott Hanselman - Speaker Hacks](http://speakinghacks.com)
-
-Note:
-...
+> Value the efforts of your peers!
 
 ---?image=assets/questions.jpg&size=contain
 ## <span class="orange black-shadow">Stack Overflow</span>
 
-Note:
-...
-
 ---
 ## <span class="orange black-shadow">#WinterBash</span>
 <img src="assets/winter-bash.jpg" height="325" />
-
-Note:
-...
-
----
-> Value the efforts of your peers
 
 ---?image=assets/open-source.jpeg&size=contain
 ## <span class="orange black-shadow">Open Source</span>
