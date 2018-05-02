@@ -46,6 +46,19 @@ We all want the world. We want to hold it in our hands, we want claim it as our 
 ---
 > I have not failed, I've just found 10,000 ways that won't work
 
+---?image=assets/cubicles.jpg&size=contain
+## <span class="orange black-shadow">Cube Etiquette</span>
+### <span class="white black-shadow">(THINGS TO AVOID)</span>
+
+---?image=assets/fingernails.jpg&size=contain
+## 1. <span class="orange black-shadow">Clipping Finger Nails</span>
+
+---?image=assets/stinky.jpg&size=contain
+## 2. <span class="orange black-shadow">Cubicle Flatulence</span>
+
+---?image=assets/screaming.jpg&size=contain
+## 3. <span class="orange black-shadow">Screaming</span>
+
 ---?image=assets/reflect.jpg&size=contain
 ## <span class="orange black-shadow">Know Thyself</span>
 
@@ -75,46 +88,9 @@ I believe that you can never know anyone else without first knowing yourself. Th
 - ### <span class="orange black-shadow">Motivated</span>
   - Acheivement, Success and Recognition
 
----?image=assets/cubicles.jpg&size=contain
-## <span class="orange black-shadow">Cube Etiquette</span>
-### <span class="white black-shadow">(THINGS TO AVOID)</span>
-
----?image=assets/fingernails.jpg&size=contain
-## 1. <span class="orange black-shadow">Clipping Finger Nails</span>
-
----?image=assets/stinky.jpg&size=contain
-## 2. <span class="orange black-shadow">Cubicle Flatulence</span>
-
----?image=assets/screaming.jpg&size=contain
-## 3. <span class="orange black-shadow">Screaming</span>
-
 ---?image=assets/imposter.jpg&size=contain
 ## <span class="orange black-shadow">Imposter Syndrome</span>
 ### <span class="black white-shadow">(KICKIN' ASS)</span>
-
----?image=assets/fast-lane.jpeg&size=contain
-## <span class="black-shadow">Fast Lane</span>
-
-Note:
-Life comes at you fast, and it all seems like a blur. It is our responsibility to have the foresight to what is coming ahead of us. Have you ever driven in the fast lane, only to be slowed down by another driver who is going 45 mph?
-
----?image=assets/accident.jpeg&size=contain
-## <span class="orange black-shadow">Distractions</span>
-
-Note:
-Blake lights, all the cars are stopped -- traffic comes to a hault. But you later realize that everyone was looking at an accident on the other side of the freeway! WTF
-
----?image=assets/rainy-day.jpeg&size=contain
-## <span class="orange black-shadow">Trapped</span>
-
-Note:
-Do you ever feel trapped or stuck...whether on a problem, or a project or even your career? Are there road blocks in your life that you have yet to go around?
-
----?image=assets/wet-road.jpeg&size=contain
-## <span class="orange black-shadow">Realization</span>
-
-Note:
-It's wet and yucky...right. No, it smells amazing after it rains. It is cool and beautiful. Be positive!!
 
 ---
 > Never be afraid to ask questions!
@@ -207,7 +183,7 @@ Personal Projects...
 
 ---
 ## <span class="orange black-shadow">Organizing</span>
-<img src="assets/creamcitycode.png" height="325" />
+<img src="assets/creamcitycode.png" height="400" />
 
 ---
 > Be the greatness that you seek in others
