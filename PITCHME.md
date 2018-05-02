@@ -207,13 +207,10 @@ Personal Projects...
 
 ---
 ## <span class="orange black-shadow">Organizing</span>
-<img src="assets/mke-dot-net.png" height="325" />
+<img src="assets/creamcitycode.png" height="325" />
 
 ---
 > Be the greatness that you seek in others
-
----?image=assets/galaxy.jpg&size=contain
-## <span class="orange black-shadow">Kardashev Scale</span>
 
 ---?image=assets/problem-solving.jpeg&size=contain
 ## <span class="orange black-shadow">Final Thoughts</span>
