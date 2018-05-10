@@ -21,9 +21,6 @@
 ---?image=assets/holding-world.jpg&size=contain
 ## <span class="orange black-shadow">The World</span>
 
-Note:
-We all want the world. We want to hold it in our hands, we want claim it as our own. We all have a sense of perpetuity whether in Code, Contributions or Projects. We want to feel like what we do matters.
-
 ---
 > Let's make the world a better place
 
@@ -67,9 +64,6 @@ We all want the world. We want to hold it in our hands, we want claim it as our 
 ---?image=assets/reflect.jpg&size=contain
 ## <span class="orange black-shadow">Know Thyself</span>
 
-Note:
-I believe that you can never know anyone else without first knowing yourself. Think back to when you were a teenager, you thought you knew how people were. But you didn't, because you didn't first know who you were -- you were still figuring out who you were going to be.
-
 ---
 > You must first know yourself before you can really know anyone else
 
@@ -103,9 +97,6 @@ I believe that you can never know anyone else without first knowing yourself. Th
 ---?image=assets/lonely.jpeg&size=contain
 ## <span class="orange black-shadow">Social Developer</span>
 
-Note:
-...
-
 ---?image=assets/blogging.jpeg&size=contain
 ## <span class="orange black-shadow">Blogging</span>
 
@@ -120,9 +111,6 @@ Note:
 
 ---?image=assets/blogging.jpeg&size=contain
 ### <span class="orange black-shadow">[dotnetcurry.com](http://www.dotnetcurry.com/author/david-pine)</span>
-
-Note:
-Explain wordpress.com, dynamic website vs static websites. Explain medium and guest authoring. 
 
 ---?image=assets/speaking.jpg&size=contain
 ## <span class="orange black-shadow">Speaking</span>
@@ -161,10 +149,6 @@ Explain wordpress.com, dynamic website vs static websites. Explain medium and gu
 ### [Angular](https://github.com/angular)
 ### [TypeScript](https://github.com/Microsoft/TypeScript)
 
-Note:
-Docs, Specifications, Core CLR, etc.
-Personal Projects...
-
 ---?image=assets/octocat.png&size=contain
 
 ---?image=assets/magic-mirror.png&size=contain
@@ -195,11 +179,6 @@ Personal Projects...
 
 ---?image=assets/problem-solving.jpeg&size=contain
 ## <span class="orange black-shadow">Final Thoughts</span>
-
-Note:
-Our time on earth is limited.
-Make the most of it.
-Kardashev Scale, Type III's will look back at our successes - let's make them proud.
 
 ---
 # Thank you
