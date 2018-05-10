@@ -89,7 +89,6 @@
 
 ---?image=assets/imposter.jpg&size=contain
 ## <span class="orange black-shadow">Imposter Syndrome</span>
-### <span class="black white-shadow">(KICKIN' ASS)</span>
 
 ---
 > Never be afraid to ask questions!
@@ -135,10 +134,6 @@
 
 ---?image=assets/questions.jpg&size=contain
 ## <span class="orange black-shadow">Stack Overflow</span>
-
----
-## <span class="orange black-shadow">#WinterBash</span>
-<img src="assets/winter-bash.jpg" height="325" />
 
 ---?image=assets/open-source.jpeg&size=contain
 ## <span class="orange black-shadow">Open Source</span>
