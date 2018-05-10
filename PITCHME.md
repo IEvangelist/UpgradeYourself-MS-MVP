@@ -37,7 +37,6 @@ We all want the world. We want to hold it in our hands, we want claim it as our 
 ## <span class="orange black-shadow">Early App</span>
 
 ---?image=assets/1_week.png&size=contain
-<!-- .slide: data-background-transition="none" -->
 ---?image=assets/1_month.png&size=contain
 <!-- .slide: data-background-transition="none" -->
 ---?image=assets/1_year.png&size=contain
@@ -47,6 +46,7 @@ We all want the world. We want to hold it in our hands, we want claim it as our 
 ---?image=assets/6_years.png&size=contain
 <!-- .slide: data-background-transition="none" -->
 ---?image=assets/10_years.png&size=contain
+<!-- .slide: data-background-transition="none" -->
 
 ---
 > I have not failed, I've just found 10,000 ways that won't work
