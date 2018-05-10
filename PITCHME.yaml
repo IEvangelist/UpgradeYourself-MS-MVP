@@ -5,4 +5,5 @@ remote-control-prevkey: 38
 remote-control-nextkey: 40
 transition : slide
 published: true
+logo : assets/dp-logo.png
 footnote : "Upgrade Yourself | bit.ly/upgrade-yourself-slides | @davidpine7"
